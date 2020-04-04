@@ -1,0 +1,13 @@
+C:\Users\Kuba\source\repos\oop2\bin\Debug\netcoreapp3.1\oop2.exe
+C:\Users\Kuba\source\repos\oop2\bin\Debug\netcoreapp3.1\oop2.deps.json
+C:\Users\Kuba\source\repos\oop2\bin\Debug\netcoreapp3.1\oop2.runtimeconfig.json
+C:\Users\Kuba\source\repos\oop2\bin\Debug\netcoreapp3.1\oop2.runtimeconfig.dev.json
+C:\Users\Kuba\source\repos\oop2\bin\Debug\netcoreapp3.1\oop2.dll
+C:\Users\Kuba\source\repos\oop2\bin\Debug\netcoreapp3.1\oop2.pdb
+C:\Users\Kuba\source\repos\oop2\obj\Debug\netcoreapp3.1\oop2.csprojAssemblyReference.cache
+C:\Users\Kuba\source\repos\oop2\obj\Debug\netcoreapp3.1\oop2.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\oop2\obj\Debug\netcoreapp3.1\oop2.AssemblyInfoInputs.cache
+C:\Users\Kuba\source\repos\oop2\obj\Debug\netcoreapp3.1\oop2.AssemblyInfo.cs
+C:\Users\Kuba\source\repos\oop2\obj\Debug\netcoreapp3.1\oop2.dll
+C:\Users\Kuba\source\repos\oop2\obj\Debug\netcoreapp3.1\oop2.pdb
+C:\Users\Kuba\source\repos\oop2\obj\Debug\netcoreapp3.1\oop2.genruntimeconfig.cache
