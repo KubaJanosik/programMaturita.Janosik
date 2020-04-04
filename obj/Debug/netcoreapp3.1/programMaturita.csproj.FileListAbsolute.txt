@@ -1,0 +1,12 @@
+C:\Users\Kuba\source\repos\oop2\programMaturita\bin\Debug\netcoreapp3.1\programMaturita.exe
+C:\Users\Kuba\source\repos\oop2\programMaturita\bin\Debug\netcoreapp3.1\programMaturita.deps.json
+C:\Users\Kuba\source\repos\oop2\programMaturita\bin\Debug\netcoreapp3.1\programMaturita.runtimeconfig.json
+C:\Users\Kuba\source\repos\oop2\programMaturita\bin\Debug\netcoreapp3.1\programMaturita.runtimeconfig.dev.json
+C:\Users\Kuba\source\repos\oop2\programMaturita\bin\Debug\netcoreapp3.1\programMaturita.dll
+C:\Users\Kuba\source\repos\oop2\programMaturita\bin\Debug\netcoreapp3.1\programMaturita.pdb
+C:\Users\Kuba\source\repos\oop2\programMaturita\obj\Debug\netcoreapp3.1\programMaturita.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\oop2\programMaturita\obj\Debug\netcoreapp3.1\programMaturita.AssemblyInfoInputs.cache
+C:\Users\Kuba\source\repos\oop2\programMaturita\obj\Debug\netcoreapp3.1\programMaturita.AssemblyInfo.cs
+C:\Users\Kuba\source\repos\oop2\programMaturita\obj\Debug\netcoreapp3.1\programMaturita.dll
+C:\Users\Kuba\source\repos\oop2\programMaturita\obj\Debug\netcoreapp3.1\programMaturita.pdb
+C:\Users\Kuba\source\repos\oop2\programMaturita\obj\Debug\netcoreapp3.1\programMaturita.genruntimeconfig.cache

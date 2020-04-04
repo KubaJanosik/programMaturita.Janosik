@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nHrsumAXDJeZQIdvMl197Mr9c7swnve943R+mpTbjjIm6H72xK1peQP+AyZC07BFmRa8LFcUn/BFF7skaswvrw==",
+  "dgSpecHash": "W0oiQj6IkjgoHOw60ncXkwoPqgXwUAxf8J3nX5WiVzkFbClaiY6/T782NmLdu1vNOAs63oRbvbk3MYH+2rr4pA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kuba\\source\\repos\\oop2\\programMaturita.csproj",
+  "projectFilePath": "C:\\Users\\Kuba\\source\\repos\\oop2\\programMaturita\\programMaturita.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

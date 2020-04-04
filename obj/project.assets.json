@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kuba\\source\\repos\\oop2\\programMaturita.csproj",
+      "projectUniqueName": "C:\\Users\\Kuba\\source\\repos\\oop2\\programMaturita\\programMaturita.csproj",
       "projectName": "programMaturita",
-      "projectPath": "C:\\Users\\Kuba\\source\\repos\\oop2\\programMaturita.csproj",
+      "projectPath": "C:\\Users\\Kuba\\source\\repos\\oop2\\programMaturita\\programMaturita.csproj",
       "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kuba\\source\\repos\\oop2\\obj\\",
+      "outputPath": "C:\\Users\\Kuba\\source\\repos\\oop2\\programMaturita\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kuba\\AppData\\Roaming\\NuGet\\NuGet.Config",
